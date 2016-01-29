@@ -1,0 +1,17 @@
+{
+	"id": "https://raw.githubusercontent.com/allingeek/microservices-team-spec/master/team.json#"
+	"title": "Service Team",
+	"type": "object",
+	"properties": {
+		"name": { "type": "string" },
+		"description": { "type": "string" },
+		"keywords": {
+			"type": "array",
+			"items": { "type": "string" },
+			"minItems": 3,
+			"uniqueItems": true
+		},
+		"homepage": { "type": "string" }
+	},
+	"required": ["name","keywords"]
+}
