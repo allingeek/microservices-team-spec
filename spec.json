@@ -1,5 +1,5 @@
 {
-	"id": "https://raw.githubusercontent.com/allingeek/microservices-team-spec/master/spec.json#"
+	"id": "https://raw.githubusercontent.com/allingeek/microservices-team-spec/master/spec.json#",
 	"$schema": "http://json-schema.org/draft-04/schema#",
 	"title": "Open Microservices Team Specification Schema",
 	"type": "object",

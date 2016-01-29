@@ -1,5 +1,5 @@
 {
-	"id": "https://raw.githubusercontent.com/allingeek/microservices-team-spec/master/team.json#"
+	"id": "https://raw.githubusercontent.com/allingeek/microservices-team-spec/master/team.json#",
 	"title": "Service Team",
 	"type": "object",
 	"properties": {
